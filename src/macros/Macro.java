@@ -32,6 +32,6 @@ class Macro {
     }
     
     public String printMacros(){
-        return "Your macro breakdown is: " + calories + " calories, " + fat + " fat, " + protein + " protein.";
+        return "Your macro breakdown is: " + calories + " calories, " + fat + " fat, " + carbs + " carbs, " + protein + " protein.";
     }
 }
